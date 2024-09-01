@@ -6,20 +6,24 @@ const ProjectCard=[
     imgsrc:pro1,
     title: "Full Stack Website Design",
     text:"Real time messaging app ",
-    view:"https://stunning-madeleine-57de3f.netlify.app/"
+    view:"https://stunning-madeleine-57de3f.netlify.app/",
+    source:"https://github.com/PavanAditya113/Chathub_frontend"
+  
    },
    {
     imgsrc:pro2,
     title: "Food Delivery App",
     text:"Full stack website designed for food delivery ",
-    view:"https://foodies83.netlify.app/"
+    view:"https://foodies83.netlify.app/",
+    source:"https://github.com/PavanAditya113/FRONTEND__FOODIES"  
    }
    ,
    {
     imgsrc:pro3,
     title: "Reactive Portfolio",
     text:"Reactive portfolio which desribes my works and interests ",
-    view:"https://remarkable-sprite-bf36d7.netlify.app"
+    view:"https://remarkable-sprite-bf36d7.netlify.app",
+    source:"https://github.com/PavanAditya113/PORTFOLIO"  
    }  
 ];
 export default ProjectCard;
