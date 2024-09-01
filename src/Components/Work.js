@@ -12,7 +12,7 @@ const Work= () => {
             Workcarddata.map((val,ind)=>{
                 return (
                     <Workcard key={ind} imgsrc={val.imgsrc} title={val.title} text={val.text}
-                    view={val.view}/>
+                    view={val.view} source={val.source}/>
                 )
             })
          }
