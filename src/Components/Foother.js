@@ -17,24 +17,24 @@ const Foother = () => {
                    </div>
        
                 <div className="phone"style={{display:"flex"}}> 
-                   <h4> <FaPhoneAlt size={20} style={{color:"#fff",marginRight:"2rem"}}/>+91 8639937719</h4>
+                   <h4> <FaPhoneAlt size={20} style={{color:"#fff",marginRight:"2rem"}}/>+91 8106544119</h4>
                 </div>
                 <div className="email">
                     <h4>
                         <FaMailBulk size={20} style={{color:"#fff",marginRight:"2rem"}}/>
-                            pavanvijay5678@gmailcomm  
+                            bharathkushal938@gmail.com  
                     </h4>
                 </div>
                 </div>
                 <div className="right">
                     <h4>About  the company</h4>
-                    <p>This is me Venkat Pavan Adithya,an enthusiastic webdeveloper. I enjoy discussing new Projects and design  challenges.</p>
+                    <p>This is me Bharath Kushal,an enthusiastic webdeveloper. I enjoy discussing new Projects and design  challenges.</p>
                     <div className="social">
                     <FaFacebook href=""size={30} style=
                     {{color:"#fff",marginRight:"2rem",cursor:"pointer"}}/>
                     <FaTwitter size={30} style=
                     {{color:"#fff",marginRight:"2rem",cursor:"pointer"}}/>
-                      <a href="https://www.linkedin.com/in/venkat-pavan-aditya-gandreti-8aa684228/"> <FaLinkedin size={30} style=
+                      <a href="https://linkedin.com/in/madduru-bharath-kushal-b521ab326"> <FaLinkedin size={30} style=
                     {{color:"#fff",marginRight:"2rem",cursor:"pointer"}}/></a>
                     </div>
                 </div>
