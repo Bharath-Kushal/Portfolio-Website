@@ -15,8 +15,8 @@ const ProjectCard=[
     imgsrc:pro3,
     title: "Reactive Portfolio",
     text:"Reactive portfolio which desribes my works and interests ",
-    view:"https://remarkable-sprite-bf36d7.netlify.app",
-    source:"https://github.com/PavanAditya113/PORTFOLIO"  
+    view:"https://my-portfolio-website-dun-beta.vercel.app/",
+    source:"https://github.com/Bharath-Kushal/Portfolio-Website"  
    }  
 ];
 export default ProjectCard;
